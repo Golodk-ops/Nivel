@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<map>
+  <layer name="settings">
+    <map gridSize="32" width="320" height="960" />
+    <gameDesign ropePhysicsSpeed="1" twoParts="false" nightLevel="false" water="829" useMobilePhysics="true" />
+  </layer>
+  <layer name="Objects">
+    <pump x="24" y="242" angle="-2" />
+    <pump x="24" y="370" angle="0" />
+    <spike4 x="85" y="686" angle="90" size="4" />
+    <pump x="30" y="311" angle="0" />
+    <pump x="307" y="597" angle="180" />
+    <pump x="300" y="742" angle="180" />
+    <spike2 x="189" y="673" angle="67" size="2" />
+    <bouncer2 x="160" y="770" angle="0" size="2" />
+    <bouncer2 x="219" y="548" angle="180" size="2" />
+    <bouncer2 x="256" y="364" angle="180" size="2" />
+    <pump x="260" y="311" angle="180" />
+    <pump x="263" y="246" angle="180" />
+    <target x="265" y="38" />
+    <candy x="159" y="832" candyNumber="0" />
+    <pump x="64" y="56" angle="0" />
+    <pump x="300" y="830" angle="180" />
+    <pump x="16" y="828" angle="0" />
+    <pump x="308" y="669" angle="180" />
+    <pump x="313" y="460" angle="180" />
+    <star x="257" y="405" timeout="-1" />
+    <star x="228" y="591" timeout="-1" />
+    <spike4 x="24" y="768" angle="0" size="4" />
+    <star x="166" y="132" timeout="-1" />
+    <pump x="227" y="200" angle="-135" />
+    <grab x="160" y="48" length="50" wheel="false" gun="false" radius="69" moveLength="-1" moveVertical="false" moveOffset="0" spider="false" part="100" hidePath="false" kickable="false" kicked="false" invisible="false" />
+    <pauseSwitcher x="139" y="689" />
+    <pump x="50" y="182" angle="-33" />
+    <transporter x="2" y="496" velocity="10" direction="forward" length="311" width="34" angle="0" type="manual" />
+    <bouncer2 x="156" y="498" size="2" angle="1" />
+    <pump x="23" y="426" angle="0" />
+  </layer>
+</map>
